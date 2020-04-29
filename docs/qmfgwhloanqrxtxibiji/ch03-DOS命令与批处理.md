@@ -237,4 +237,3 @@ exit
    taskkill /im explorer.exe /f
    ```
 
-6. 

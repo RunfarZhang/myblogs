@@ -19,9 +19,9 @@
 ### 域名组成
 
 * 树形结构
-  * <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch10-DNS部署与安全/image-20200423174951829.png" alt="image-20200423174951829" style="zoom:50%;" />
-* <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch10-DNS部署与安全/image-20200423175036437.png" alt="image-20200423175036437" style="zoom: 67%;" />
-* <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch10-DNS部署与安全/image-20200423175151363.png" alt="image-20200423175151363" style="zoom:50%;" />
+  * <img src="./SavedPics/ch10-DNS部署与安全/image-20200423174951829.png" alt="image-20200423174951829" style="zoom:50%;" />
+* <img src="./SavedPics/ch10-DNS部署与安全/image-20200423175036437.png" alt="image-20200423175036437" style="zoom: 67%;" />
+* <img src="./SavedPics/ch10-DNS部署与安全/image-20200423175151363.png" alt="image-20200423175151363" style="zoom:50%;" />
 
 ## 监听端口
 
@@ -35,7 +35,7 @@
 1. 递归查询：客户机与本地DNS服务器之间、DNS转发器之间（所问即所答）
 2. 迭代查询：按照DNS服务器与根等其他DNS服务器的解析过程（所问非所答）
 
-* <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch10-DNS部署与安全/image-20200423175621714.png" alt="image-20200423175621714" style="zoom:67%;" />
+* <img src="./SavedPics/ch10-DNS部署与安全/image-20200423175621714.png" alt="image-20200423175621714" style="zoom:67%;" />
 * 公司里的DNS服务器一般设为转发型服务器
 
 ### 按照查询内容分类
@@ -83,7 +83,7 @@
 
 
 
-* <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch10-DNS部署与安全/image-20200424160701770.png" alt="image-20200424160701770" style="zoom:50%;" />
+* <img src="./SavedPics/ch10-DNS部署与安全/image-20200424160701770.png" alt="image-20200424160701770" style="zoom:50%;" />
 
   *Vmnet 0是使用真实机的交换机，可以实现上网功能*
 

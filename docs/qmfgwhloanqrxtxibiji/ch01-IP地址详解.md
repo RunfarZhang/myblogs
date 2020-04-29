@@ -10,7 +10,7 @@
 
 
 
-* <img src="/./qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319152743288.png" alt="image-20200319152743288" style="zoom:50%;" />
+* <img src="./SavedPics/IP地址详解/image-20200319152743288.png" alt="image-20200319152743288" style="zoom:50%;" />
 
 * *交换机只能组建内网（局域网）、路由器只能组建外网（互联网）*
 
@@ -23,7 +23,7 @@
 
   * **点分十进制**
   
-  * <img src="/./qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319153243205.png" alt="image-20200319153243205" style="zoom:100%;" />
+  * <img src="./SavedPics/IP地址详解/image-20200319153243205.png" alt="image-20200319153243205" style="zoom:100%;" />
   * 0-255
 
 ### 子网掩码
@@ -58,11 +58,11 @@
 * *网关：一个网络的出口，Gateway=GW，一般网关实在路由器上*
 * 路由器：可用于连接外网的设备
 
-* <img src="/./qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319160815067.png" alt="image-20200319160815067" style="zoom:67%;" />
+* <img src="./SavedPics/IP地址详解/image-20200319160815067.png" alt="image-20200319160815067" style="zoom:67%;" />
 
   ---
 
-*  <img src="/./qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319160831073.png" alt="image-20200319160831073" style="zoom:50%;" />
+*  <img src="./SavedPics/IP地址详解/image-20200319160831073.png" alt="image-20200319160831073" style="zoom:50%;" />
 
 * *上网第一步：先比较是否在同一个局域网（网段）内。*
 
@@ -77,7 +77,7 @@
   3. 求助DNS
 
 * 北京市联通通用DNS
-  <img src="/./qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319163338093.png" alt="image-20200319163338093" style="zoom:50%;" />
+  <img src="./SavedPics/IP地址详解/image-20200319163338093.png" alt="image-20200319163338093" style="zoom:50%;" />
 
 * nslookup
 

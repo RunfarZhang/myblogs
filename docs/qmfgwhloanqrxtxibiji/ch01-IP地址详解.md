@@ -10,7 +10,7 @@
 
 
 
-* <img src="/myblogs/docs/qmfgwhloanqrxtxibiji/SavedPics/IP地址详解/image-20200319152743288.png" alt="image-20200319152743288" style="zoom:50%;" />
+* <img src="./SavedPics/IP地址详解/image-20200319152743288.png" alt="image-20200319152743288" style="zoom:50%;" />
 
 * *交换机只能组建内网（局域网）、路由器只能组建外网（互联网）*
 

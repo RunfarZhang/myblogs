@@ -14,12 +14,12 @@
    1. 主动模式
       * 21 控制端口
       * 20 数据端口
-      * <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch12-FTP服务器/image-20200428102845290.png" alt="image-20200428102845290" style="zoom:50%;" />
+      * <img src="./SavedPics/ch12-FTP服务器/image-20200428102845290.png" alt="image-20200428102845290" style="zoom:50%;" />
       * 客户机选择模式、服务器主动，从20发文件到50002
       * 此时，如果有防火墙限制，则需要50002先访问20端口
       * 若使用防火墙（屏蔽了客户机的第二个端口）+主动模式则无法连接
    2. 被动模式
-      *  <img src="./qmfgwhloanqrxtxibiji/SavedPics/ch12-FTP服务器/image-20200428103726232.png" alt="image-20200428103726232" style="zoom:50%;" />
+      *  <img src="./SavedPics/ch12-FTP服务器/image-20200428103726232.png" alt="image-20200428103726232" style="zoom:50%;" />
       * 21端口+随机端口作为数据传输端口
       * 被动模式就是在建立连接并申请文件后客户机先询问服务器建立通道
 
